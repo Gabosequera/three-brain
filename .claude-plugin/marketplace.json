@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "three-brain",
+  "description": "Auto-routes work to Codex or Gemini when Claude alone is not the best tool",
+  "owner": {
+    "name": "Gabosequera",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "three-brain",
+      "description": "Routes work to Codex (GPT) or Gemini when Claude alone is not the best tool. Self-review protection, adversarial review, rescue mode, multimodal, whole-repo scan.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Gabosequera"
+      },
+      "source": "./",
+      "category": "productivity",
+      "keywords": ["codex", "gemini", "review", "routing", "multi-model"],
+      "homepage": "https://github.com/Gabosequera/three-brain",
+      "repository": "https://github.com/Gabosequera/three-brain"
+    }
+  ]
+}
