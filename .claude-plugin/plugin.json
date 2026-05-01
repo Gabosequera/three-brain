@@ -1,0 +1,8 @@
+{
+  "name": "three-brain",
+  "version": "1.0.0",
+  "description": "Routes work to Codex or Gemini when Claude alone is not the best tool.",
+  "author": {
+    "name": "Gabosequera"
+  }
+}
